@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "Autores Details";
+}
+@model Travel.Web.ViewModels.AutoresViewModel
+<h2>Project (MVC View)</h2>
+
+<h3>Name: @Model.Nombre</h3>
+<h3>Name: @Model.Apellidos</h3>
+
+<b>Items:</b>
+
+<ul>
+    @foreach (var item in Model.Items)
+    {
+        <li>@item.Id<br />@item.LibrosISBN</li>
+    }
+</ul>

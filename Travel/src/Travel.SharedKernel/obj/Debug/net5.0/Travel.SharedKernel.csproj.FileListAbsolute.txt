@@ -1,0 +1,12 @@
+C:\Users\admin\source\repos\Travel\Travel\src\Travel.SharedKernel\bin\Debug\net5.0\Travel.SharedKernel.deps.json
+C:\Users\admin\source\repos\Travel\Travel\src\Travel.SharedKernel\bin\Debug\net5.0\Travel.SharedKernel.dll
+C:\Users\admin\source\repos\Travel\Travel\src\Travel.SharedKernel\bin\Debug\net5.0\ref\Travel.SharedKernel.dll
+C:\Users\admin\source\repos\Travel\Travel\src\Travel.SharedKernel\bin\Debug\net5.0\Travel.SharedKernel.pdb
+C:\Users\admin\source\repos\Travel\Travel\src\Travel.SharedKernel\obj\Debug\net5.0\Travel.SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Travel\Travel\src\Travel.SharedKernel\obj\Debug\net5.0\Travel.SharedKernel.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Travel\Travel\src\Travel.SharedKernel\obj\Debug\net5.0\Travel.SharedKernel.AssemblyInfo.cs
+C:\Users\admin\source\repos\Travel\Travel\src\Travel.SharedKernel\obj\Debug\net5.0\Travel.SharedKernel.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Travel\Travel\src\Travel.SharedKernel\obj\Debug\net5.0\Travel.SharedKernel.dll
+C:\Users\admin\source\repos\Travel\Travel\src\Travel.SharedKernel\obj\Debug\net5.0\ref\Travel.SharedKernel.dll
+C:\Users\admin\source\repos\Travel\Travel\src\Travel.SharedKernel\obj\Debug\net5.0\Travel.SharedKernel.pdb
+C:\Users\admin\source\repos\Travel\Travel\src\Travel.SharedKernel\obj\Debug\net5.0\Travel.SharedKernel.csproj.AssemblyReference.cache

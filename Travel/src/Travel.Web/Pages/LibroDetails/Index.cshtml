@@ -1,0 +1,22 @@
+﻿@page "{LibroId}"
+@model Travel.Web.Pages.LibroRazorPage.IndexModel
+@{
+    ViewData["Title"] = "Travel Library Softwatre";
+}
+@if (!String.IsNullOrEmpty(Model.Message))
+{
+    <h2>@Model.Message</h2>
+}
+else
+{
+
+<h2>Libro (Razor Page)</h2>
+<h3>ISBN: @Model.Libro.ISBN</h3>
+<h3>Titulo: @Model.Libro.Titulo</h3>
+<h3>Autor: @Model.Libro.Autor</h3>
+<h3>Editorial: @Model.Libro.Editorial</h3>
+<h3>Sinópsis: @Model.Libro.Sinopsis</h3>
+<h3>Numero de Páginas: @Model.Libro.NPaginas</h3>
+
+}
+<h3><a href="/LibrosDetails/Index">Volver</a></h3>

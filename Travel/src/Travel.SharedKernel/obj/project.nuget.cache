@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8LR64XxLkYwBSkAMitUJ5hqcTv7BsKCRhkatLCxOV4GgFCcrg34t/1uCE+iP51ot/cQsCt6+JPiEegl6dDL/Wg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\source\\repos\\Travel\\Travel\\src\\Travel.SharedKernel\\Travel.SharedKernel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\ardalis.guardclauses\\3.1.0\\ardalis.guardclauses.3.1.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\ardalis.specification\\5.1.0\\ardalis.specification.5.1.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\jetbrains.annotations\\2019.1.3\\jetbrains.annotations.2019.1.3.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

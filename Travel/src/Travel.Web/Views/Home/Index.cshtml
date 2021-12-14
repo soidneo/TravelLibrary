@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "Travel Library Software";
+}
+<div class="row">
+    <div class="col-md-6">
+        <h3>Para continuar con el software de la libreria TRAVEL</h3>
+        <p>
+            Tiene soporte para:
+            <ul>
+                <li>APIs usando API Endpoints (en la carpeta /Endpoints)</li>
+                <li>APIs using Controllers (en las carpetas /Api y /ApiModels)</li>
+                <li>Razor Pages (en las carpetas /Pages y /Views/Shared)</li>
+                <li>Paginas usando vista y controladores (en las carpetas /Controllers, /ViewModels, y /Views - mantener /Views/Shared para Razor Pages)</li>
+            </ul>
+            Se puede elegir las caracteristicas más adecuadas para continuar el proyecto y eliminar las que no se implementarán.
+        </p>
+    </div>
+    <div class="col-md-6">
+        <h3>APIs</h3>
+        Muestra las APIs del Controller y de los Endpoint.
+        <ul>
+            <li><a href="/swagger">Documentación de APIs (Swagger)</a></li>
+        </ul>
+        <h3><a href="/LibrosDetails/Index">Vista de libros (usando Razor Pages)</a></h3>
+        <h3><a asp-area="" asp-controller="Libros" asp-action="Index">Vista de libros (usando MVC Views)</a></h3>
+    </div>
+</div>

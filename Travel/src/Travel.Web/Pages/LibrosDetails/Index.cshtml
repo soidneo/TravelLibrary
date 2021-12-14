@@ -1,0 +1,24 @@
+﻿@page "{LibroId}"
+@model Travel.Web.Pages.LibrosRazorPage.IndexModel
+
+@if (!String.IsNullOrEmpty(Model.Message))
+{
+    <h2>@Model.Message</h2>
+}
+else
+{
+
+    <h2>Libro (Razor Page)</h2>
+    @foreach (var item in Model.Libros)
+    {
+        <hr class="my-12" />
+        <h3>ISBN: @item.ISBN</h3>
+        @*<h3>Titulo: @item.Titulo</h3>
+            <h3>Autor: @item.Autor</h3>
+            <h3>Editorial: @item.Editorial</h3>
+            <h3>Sinópsis: @item.Sinopsis</h3>
+            <h3>Numero de Páginas: @item.NPaginas</h3>*@
+        <h3><a href="/LibroDetails/Index/@item.ISBN">@item.Titulo</a></h3>
+    }
+
+}

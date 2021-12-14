@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "Libros Detalles";
+}
+@model List<Travel.Web.ViewModels.LibrosViewModel>
+<h2>Libros (MVC View)</h2>
+
+@foreach (var item in Model)
+{
+    <hr class="my-12" />
+    <h3>ISBN: @item.ISBN</h3>
+    <h3><a href="/Libros/@item.ISBN">@item.Titulo</a></h3>
+}
+
+
+
+
