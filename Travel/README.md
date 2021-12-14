@@ -42,3 +42,4 @@ _Para ejecutar cada prueba nos podemos ubicar sobre el proyecto de pruebas desea
 ## Autor ✒️
 
 Pablo Andrés Gómez
+soidneo@gmail.com
