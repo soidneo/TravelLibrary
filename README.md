@@ -25,10 +25,10 @@ _Abra Visual Studio, en la ventana de inicio, seleccione Clonar un repositorio. 
     "DefaultConnection": "Server=DESKTOP-VJE7NO4;Database=TravelLibrayDB;Trusted_Connection=True;MultipleActiveResultSets=true"
   },
 ```
-_Luego una vez cargada la solución, dentro de la carpeta del proyecto Travel.Web abrir el archivo y cambiar el valor del parametro Server dentro de DefaultConnection, y colocar el nombre del servidor de base de datos del equipo local
+_Luego una vez cargada la solución, dentro de la carpeta del proyecto Travel.Web abrir el archivo y cambiar el valor del parametro Server dentro de DefaultConnection, y colocar el nombre del servidor de base de datos del equipo local_
 
 
-Luego click derecho sobre la solución en el explorador de soluciones, opcion Limpiar, luego compilar y despues ejecutar el proyecto, asegurarse de que el proyecto de inicio sea Travel.Web
+_Click derecho sobre la solución en el explorador de soluciones, opcion Limpiar, luego compilar y despues ejecutar el proyecto, asegurarse de que el proyecto de inicio sea Travel.Web_
 
 ## Ejecutando pruebas ⚙️
 
